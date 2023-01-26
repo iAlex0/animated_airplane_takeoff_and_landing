@@ -14,4 +14,7 @@ To land: release your mouse.
 ```bash
 # Live Server
 http://127.0.0.1:5500/index.html
+
+# index.html
+Double click on index.html file to view in browser
 ```
